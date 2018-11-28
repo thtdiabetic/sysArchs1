@@ -5,3 +5,12 @@ p{color: aqua;font-family: Calibri;}
 h1{color: blue; font-family:Aharoni;}
 
 h3 {color: aqua; font-family:Garamond;}
+
+ul{
+ 
+  list-style-type: lower-roman;
+  
+  color: yellow;
+  
+  font-family:"Iskoola Pota";
+}
